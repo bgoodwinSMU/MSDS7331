@@ -2,3 +2,21 @@ https://github.com/jakemdrew/DataMiningNotebooks
 
 jdrew@mail.smu.edu
 jakemdrew@gmail.com
+
+
+Define and how to describe outcome form dataset:
+
+Pick two things in dataset youd like to predict
+Identify: Is this classification or regression problem.
+
+Depedning on the type of problem you choose will change next step:
+
+How would you measure the effectiveness of a good prediction algorithm:
+You have to choose an evaluation metric:
+Classifciation: accuracy, precision, recall...
+Regression: RMSE, mean absolute error, lots of metrics you can use (Jake likes those two)
+Pick and explain:
+We would like to classify/regression on the following two items:
+
+We know we mined useful things using cross validation/some other metric
+
