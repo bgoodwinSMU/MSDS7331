@@ -22,3 +22,9 @@ We know we mined useful things using cross validation/some other metric
 
 Mini-lab, there's no exceptional points, so there isn't really a penalty for resubmission. 
 
+Ridge regression is good potentially if you have really sparse data. 
+
+Mini-lab 1, if you use SVM without a kernel then you you'll do logsitic regression twice 
+
+https://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2017/Models/2017SegregatedHighSchoolCampuses.ipynb
+Remember the part about cores
