@@ -30,3 +30,5 @@ https://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2017/M
 Remember the part about cores
 
 Big dataset: SGDCClassifier
+
+Don't scale categorical varables (might not be counted off for)
