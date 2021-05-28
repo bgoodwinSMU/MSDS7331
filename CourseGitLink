@@ -28,3 +28,5 @@ Mini-lab 1, if you use SVM without a kernel then you you'll do logsitic regressi
 
 https://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2017/Models/2017SegregatedHighSchoolCampuses.ipynb
 Remember the part about cores
+
+Big dataset: SGDCClassifier
